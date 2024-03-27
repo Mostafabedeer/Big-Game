@@ -203,9 +203,8 @@ main {
   }
   .btn--roll,
   .btn--hold {
-    position: fixed;
     transform: translate(-50%, -50%);
-    top: 50vh;
+    top: 50%;
   }
   .btn--roll {
     left: 20%;
